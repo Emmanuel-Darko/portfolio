@@ -1,0 +1,18 @@
+body {
+  background: url(images/undraw_moonlight_5ksn.svg) no-repeat center fixed;
+  -webkit-background: contain;
+  -moz-background: contain;
+  -o-background: contain;
+  background: contain;
+}
+
+@media only screen and (max-width: 1000px){
+  body{
+    -webkit-background: contain;
+    -moz-background: contain;
+    -o-background: contain;
+    background: contain;
+    background-size: contain;
+    word-wrap: break-word;
+  }
+}
