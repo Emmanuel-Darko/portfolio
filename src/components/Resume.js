@@ -189,7 +189,8 @@ function Resume() {
                         className={classes.button} 
                         style={{marginBottom:"0",color:"red"}}
                         endIcon={<PictureAsPdf/>}
-                        href="/pdf/cv"
+                        // href="/pdf/cv"
+                        href="https://drive.google.com/file/d/1YXxRhQ4RmxTBXXG93PSemjvMqMHtPPSw/view?usp=sharing"
                         target="_blank"
                     >
                         CV
@@ -198,7 +199,8 @@ function Resume() {
                         className={classes.button} 
                         style={{marginBottom:"0",color:"red"}}
                         endIcon={<PictureAsPdf/>}
-                        href="/pdf/resume"
+                        // href="/pdf/resume"
+                        href="https://drive.google.com/file/d/1o_dqk8eJGXjxqCE681YeENLFEoASLH0-/view?usp=sharing"
                         target="_blank"
                     >
                         Resume
