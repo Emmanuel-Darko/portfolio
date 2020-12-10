@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d15567a.chunk.css",
+    "main.js": "/static/js/main.560a17fb.chunk.js",
+    "main.js.map": "/static/js/main.560a17fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
+    "static/js/2.61b7bd25.chunk.js": "/static/js/2.61b7bd25.chunk.js",
+    "static/js/2.61b7bd25.chunk.js.map": "/static/js/2.61b7bd25.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d15567a.chunk.css.map": "/static/css/main.9d15567a.chunk.css.map",
+    "static/js/2.61b7bd25.chunk.js.LICENSE.txt": "/static/js/2.61b7bd25.chunk.js.LICENSE.txt",
+    "static/media/Emma-Darko-CV.4a3ed0af.pdf": "/static/media/Emma-Darko-CV.4a3ed0af.pdf",
+    "static/media/Emmanuel-Resume.181c6e5a.pdf": "/static/media/Emmanuel-Resume.181c6e5a.pdf",
+    "static/media/avatar.d94025aa.png": "/static/media/avatar.d94025aa.png",
+    "static/media/undraw_add_to_cart_vkjp_(1).97844540.svg": "/static/media/undraw_add_to_cart_vkjp_(1).97844540.svg",
+    "static/media/undraw_back_to_school_inwc_(1).5ab4d834.svg": "/static/media/undraw_back_to_school_inwc_(1).5ab4d834.svg",
+    "static/media/undraw_compose_music_ovo2.4fe6d339.svg": "/static/media/undraw_compose_music_ovo2.4fe6d339.svg",
+    "static/media/undraw_medicine_b1ol_(2).e0cf9bf4.svg": "/static/media/undraw_medicine_b1ol_(2).e0cf9bf4.svg",
+    "static/media/App.css": "/static/media/undraw_moonlight_5ksn.d83ce7dd.svg",
+    "static/media/undraw_shopping_app_flsj_(1).cf1d67d9.svg": "/static/media/undraw_shopping_app_flsj_(1).cf1d67d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd7dc15.js",
+    "static/js/2.61b7bd25.chunk.js",
+    "static/css/main.9d15567a.chunk.css",
+    "static/js/main.560a17fb.chunk.js"
+  ]
+}

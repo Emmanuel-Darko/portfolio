@@ -28,7 +28,7 @@ const useStyles = makeStyles(theme=>({
     left: "50%",
     transform: "translate(-50%, -50%)",
     position: "absolute",
-    [theme.breakpoints.down("md")]: {
+    [theme.breakpoints.down("450")]: {
       width: "70%"
     }
   },
@@ -47,12 +47,15 @@ const useStyles = makeStyles(theme=>({
   success: {
     width:"50%", 
     float:"right", 
-    background:"c4ffd8", 
+    background:"#b5ffbd", 
     color:"black", 
     fontWeight:"bold",
-    position:"relative",
-    marginBottom:"50px",
-    // transition:"ease-in-out",
+    position:"absolute",
+    right: "0",
+    margin:"70px 0 50px 0",
+    zIndex: "1",
+    // transition: "width 2s",
+    // transitionTimingFunction: "ease",
     [theme.breakpoints.down("md")]: {
       width: "90%",
       padding: "2px"
@@ -133,7 +136,7 @@ const Contact = () => {
       {
         success &&
         <>
-          <Alert severity="success" className={classes.success}>
+          <Alert style={{paddingRight:"10px"}} severity="success" className={classes.success} onClose={()=>{setSuccess(false)}}>
             <AlertTitle>Hi {name}, <br/> Your message has been sent. <b/> We'll get back to you.</AlertTitle>
           </Alert>
         </>

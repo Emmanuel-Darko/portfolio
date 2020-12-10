@@ -146,10 +146,14 @@ const useStyles = makeStyles(theme => ({
     paper: {
         position: 'absolute',
         width: 400,
+        margin: "auto",
         backgroundColor: theme.palette.background.paper,
         border: '2px solid #000',
         boxShadow: theme.shadows[5],
         padding: theme.spacing(2, 4, 3),
+        [theme.breakpoints.down("385")]: {
+            width: '100%'
+        }
     },
 }))
 

@@ -61,7 +61,7 @@ const Portfolio = () => {
                                 <Button size="small" color="primary">
                                     Share
                                 </Button>
-                                <Button size="small" color="primary">
+                                <Button size="small" color="primary" href="https://emmanuel-darko.github.io/haven-care" target="_blank">
                                     Live Demo
                                 </Button>
                             </CardActions>
@@ -84,14 +84,14 @@ const Portfolio = () => {
                                     Church Management
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Adipisicing aliqua nisi nulla pariatur dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt.
+                                    Church Management System. This application has many features such as attendance tracking, member information database, announcement section and many other.
                                 </Typography>
                             </CardContent>
                             <CardActions>
                                 <Button size="small" color="primary">
                                     Share
                                 </Button>
-                                <Button size="small" color="primary">
+                                <Button size="small" color="primary" href="https://english-attendance.herokuapp.com" target="_blank">
                                     Live Demo
                                 </Button>
                             </CardActions>
@@ -114,7 +114,7 @@ const Portfolio = () => {
                                     School Management
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Adipisicing aliqua nisi nulla pariatur dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt.
+                                    School Management System. This application has a number of modern features such as cloud-based management, academic management, accounts management, attendance tracking, live classes, bookstore and 1 website. 
                                 </Typography>
                             </CardContent>
                             <CardActions>
@@ -144,7 +144,7 @@ const Portfolio = () => {
                                     E-commerce
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Adipisicing aliqua nisi nulla pariatur dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt.
+                                    E-commerce app for electronics. Comes with cart functionalities, checkout functionalities, invoice note and many other.
                                 </Typography>
                             </CardContent>
                             <CardActions>
@@ -174,7 +174,7 @@ const Portfolio = () => {
                                     Shopping List
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Adipisicing aliqua nisi nulla pariatur dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt.
+                                    Get a list of all items to be purchased, grocery list, personal to-dos etc. This application gives you the functionality to add, edit and remove items. Also provides password protection.    
                                 </Typography>
                             </CardContent>
                             <CardActions>
