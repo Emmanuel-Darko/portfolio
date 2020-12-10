@@ -54,7 +54,7 @@ const Portfolio = () => {
                                     Haven Healthcare
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Adipisicing aliqua nisi nulla pariatur dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt dolore ipsum. Dolor fugiat reprehenderit ex adipisicing incididunt.
+                                    A healthcare website. It houses modern design patterns and highly scalable. Has a gallery portfolio for firm's stock images, contact page and many other.
                                 </Typography>
                             </CardContent>
                             <CardActions>
