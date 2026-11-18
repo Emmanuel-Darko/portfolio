@@ -81,6 +81,7 @@ button { color: inherit; }
 .project-card--chop .project-art { background: #f2e9dd; }
 .project-card--kode .project-art { background: #e4edf1; }
 .project-card--attendance .project-art { background: #e9e7f0; }
+.project-card--dues .project-art { background: #e9efe3; }
 .project-card--tasforce .project-art { background: #efe4e4; }
 .project-card--mobi .project-art { background: #e3eee9; }
 .project-card--wedding .project-art { background: #f1ebdc; }
@@ -101,6 +102,7 @@ button { color: inherit; }
 .project-card--chop .art-tiles i:first-child { background: #d3a37c; }
 .project-card--kode .art-tiles i:first-child { background: #86a9b5; }
 .project-card--attendance .art-tiles i:first-child { background: #a79dbb; }
+.project-card--dues .art-tiles i:first-child { background: #83a783; }
 .project-card--tasforce .art-tiles i:first-child { background: #ba8282; }
 .project-card--mobi .art-tiles i:first-child { background: #84b39b; }
 .project-card--wedding .art-tiles i:first-child { background: #d3bb81; }

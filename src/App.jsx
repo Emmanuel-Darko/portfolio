@@ -31,6 +31,14 @@ const projects = [
     tags: ['Nuxt', 'Vue', 'Supabase', 'QR scanning'],
   },
   {
+    name: 'COP Dues Tracker',
+    category: 'Church finance · Administration',
+    theme: 'dues',
+    artLabel: 'COP / DUES TRACKER',
+    description: 'A church officer dues tool for managing officers, recording weekly payments, checking paid and unpaid status, and exporting annual summaries.',
+    tags: ['Nuxt 4', 'Supabase', 'Tailwind CSS', 'PDF and CSV reports'],
+  },
+  {
     name: 'TAS-FORCE',
     category: 'Membership · Public verification',
     theme: 'tasforce',
